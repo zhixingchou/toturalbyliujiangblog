@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4f38441f-3ffc-4f28-a14b-ea60a4c26784" name="toturalbyliujiangblog" url="http://192.168.1.220">
+        <fileTransfer host="192.168.1.220" port="10031" rootFolder="/django/0105/mysite" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10031" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
